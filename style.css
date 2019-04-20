@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+}
+.color {
+    background-color: #f2f2f2;
+}
+
+figure,
+.border {
+    border: 1px solid #d9d9d9;
+    padding: 5px;
+    background-color: #f2f2f2;
+}
+
+.main {
+    border-width: 0px 0px 1px 1px;
+    border-style: solid;
+    border-color: lightblue;
+    padding: 15px
+}
+
+.main2 {
+    border-width: 1px 0px 0px 1px;
+    border-style: solid;
+    border-color: lightblue;
+    padding: 15px;
+}
+.align {
+    padding-bottom: 1900px;
+    padding-left: 10px;
+}
+/* header */
+table#headt{
+    background-image: linear-gradient(white, #f2f2f2);
+    
+}
+
+
+/* header */
